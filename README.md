@@ -18,7 +18,7 @@ You can install the required libraries using `pip`:
 
 ## How to Use
 
-1. Clone this repository or download the script `qr_code_detector.py` to your local machine.
+1. Clone this repository or download the script `RealTimeQR_Detector.py` to your local machine.
 
 2. Make sure you have a webcam connected to your computer.
 
@@ -27,7 +27,7 @@ You can install the required libraries using `pip`:
 4. Run the script using the following command:
 
 
-```python qr_code_detector.py```
+```python RealTimeQR_Detector.py```
 
 
 5. The script will start the webcam feed, and it will continuously search for QR codes in the video frames.
